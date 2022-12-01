@@ -8,7 +8,7 @@ CERT Societe Generale with the collaboration of CERT aDvens provides easy to use
 
 CERT Societe Generale would like to thank [SANS](https://www.sans.org/) and [Lenny Zeltser](https://zeltser.com/cheat-sheets/) who have been a major source of inspiration for some IRMs. 
 
-We also would like to thank [CERT aDvens](https://github.com/cert-advens/) for the collaborative work and the French translation.
+We also would like to thank [CERT aDvens](https://github.com/cert-advens/IRM) for the collaborative work and the French translation.
 
 Feel free to contact us if you identify a bug or an error in these IRMs.
 
