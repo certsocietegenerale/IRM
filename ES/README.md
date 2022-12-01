@@ -1,4 +1,4 @@
-Spanish version
+Spanish version (Deprecated)
 ===============
 
 The Spanish version is available [here](https://github.com/certsocietegenerale/IRM-deprecated/tree/master/ES).
