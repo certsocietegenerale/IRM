@@ -6,7 +6,9 @@ IRM-2022 (Incident Response Methodologies 2022)
 
 CERT Societe Generale with the collaboration of CERT aDvens provides easy to use operational incident best practices. These cheat sheets are dedicated to incident handling and cover multiple fields in which a CERT team can be involved. One IRM exists for each security incident we're used to dealing with.
 
-CERT Societe Generale would like to thank [SANS](https://www.sans.org/) and [Lenny Zeltser](https://zeltser.com/cheat-sheets/) who have been a major source of inspiration for some IRMs. We also would like to thank [CERT aDvens](https://github.com/cert-advens/) for the collaborative work and the French translation.
+CERT Societe Generale would like to thank [SANS](https://www.sans.org/) and [Lenny Zeltser](https://zeltser.com/cheat-sheets/) who have been a major source of inspiration for some IRMs. 
+
+We also would like to thank [CERT aDvens](https://github.com/cert-advens/) for the collaborative work and the French translation.
 
 Feel free to contact us if you identify a bug or an error in these IRMs.
 
